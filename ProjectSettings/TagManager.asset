@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - HealthBar
+  - EnergyBar
+  - Play
+  - Setting
+  - About
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Rails
+  - Background
+  - Enemy
+  - Hero
+  - Train
+  - Interactable
+  - WaterLines
+  - Item
+  - House
+  - Fuels
+  - Potions
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3842861783
+    locked: 0
+  - name: Rails
+    uniqueID: 4196039565
+    locked: 0
+  - name: Enemy
+    uniqueID: 3920538845
+    locked: 0
+  - name: Hero
+    uniqueID: 3445557483
+    locked: 0
+  - name: Ground
+    uniqueID: 3183947181
+    locked: 0
+  - name: Interactable
+    uniqueID: 980173689
+    locked: 0
+  - name: Train
+    uniqueID: 3573777769
+    locked: 0
+  - name: Item
+    uniqueID: 2792088013
+    locked: 0
